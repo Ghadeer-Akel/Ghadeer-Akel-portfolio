@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ghadeer-Akel-portfolio/static/css/main.58ca1894.css",
+    "main.js": "/Ghadeer-Akel-portfolio/static/js/main.1e69ce41.js",
+    "static/media/project2.png": "/Ghadeer-Akel-portfolio/static/media/project2.e3e0b5ec2de7ed435b31.png",
+    "static/media/project3.png": "/Ghadeer-Akel-portfolio/static/media/project3.65dc499e658fa54861e5.png",
+    "static/media/project1.png": "/Ghadeer-Akel-portfolio/static/media/project1.eed9f90d895e6cbf1f87.png",
+    "static/media/pofile.jpeg": "/Ghadeer-Akel-portfolio/static/media/pofile.f90228744690667e3573.jpeg",
+    "index.html": "/Ghadeer-Akel-portfolio/index.html",
+    "main.58ca1894.css.map": "/Ghadeer-Akel-portfolio/static/css/main.58ca1894.css.map",
+    "main.1e69ce41.js.map": "/Ghadeer-Akel-portfolio/static/js/main.1e69ce41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ca1894.css",
+    "static/js/main.1e69ce41.js"
+  ]
+}
